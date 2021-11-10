@@ -59,4 +59,4 @@ if __name__ == '__main__':
                       '任何', '发生', '甚至', '能够', '过去', '对于', '知道', '这是',
                       '现在', '不同', '并且', '似乎', '那样', '其他', '什么', '不是',
                       '那么', '一点', '已经', '之间', '如何', '仍然'])
-    draw_cloud(text="cloud_txt/覆汉.txt", graph="cloud_image/horse.jpg", save_name='覆汉词云.png')
+    draw_cloud(text="cloud_txt/百年孤独.txt", graph="cloud_image/horse.jpg", save_name='词云.png')
